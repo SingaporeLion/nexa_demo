@@ -1,0 +1,68 @@
+name: nexa
+description: NEXA Network
+
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.5.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  get: ^4.7.1
+  http: ^1.3.0
+  flutter_svg: ^2.0.17
+  shared_preferences: ^2.5.2
+  path_provider: ^2.1.5
+  intl: ^0.20.2
+  pin_code_fields: ^8.0.1
+  flutter_inappwebview: ^6.1.5
+  url_launcher: ^6.3.1
+  flutter_widget_from_html: ^0.15.3
+  animated_bottom_navigation_bar: ^1.4.0
+  auto_size_text: ^3.0.0
+  flutter_spinkit: ^5.2.1
+  google_fonts: ^6.2.1
+  awesome_dialog: ^3.2.1
+  file_picker: ^8.3.5
+  json_annotation: ^4.9.0
+  equatable: ^2.0.7
+  google_sign_in: ^6.2.2
+  dotted_border: ^2.1.0
+  lottie: ^3.3.1
+  connectivity_plus: ^6.1.3
+  firebase_messaging: ^15.2.2
+  dio: ^5.8.0+1
+  image_gallery_saver_plus: ^3.0.5
+  permission_handler: ^11.3.1
+  flutter_local_notifications: ^18.0.1
+  firebase_core: ^3.11.0
+  zoom_tap_animation: ^1.1.0
+  shimmer: ^3.0.0
+  open_file: ^3.5.10
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/images/splash_background.png
+    - assets/icons/
+    - assets/images/onboard/
+    - assets/images/social/
+
+  fonts:
+    - family: Roboto
+      fonts:
+        - asset: assets/fonts/Roboto-Regular.ttf
+        - asset: assets/fonts/Roboto-Light.ttf
+        - asset: assets/fonts/Roboto-Bold.ttf

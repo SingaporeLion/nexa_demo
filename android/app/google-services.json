@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "898772373587",
+    "project_id": "minelab-fa1b1",
+    "storage_bucket": "minelab-fa1b1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898772373587:android:26c466a7751f83d55536a6",
+        "android_client_info": {
+          "package_name": "dev.vlab.mine_lab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898772373587-55ni4di8ql7auiscnsaqmo09e92q6rcm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.vlab.mine_lab",
+            "certificate_hash": "c5682c8281d41174738037e755afba6d19d0460f"
+          }
+        },
+        {
+          "client_id": "898772373587-ne2k8ol1j99cv03j2tp2aj9vleh3p9m2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCYL-4efgU3T1Ivqsl8nsuJc7w6sCCOGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898772373587-ne2k8ol1j99cv03j2tp2aj9vleh3p9m2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "898772373587-st6rpq13j96d2mhtq8hgv3i7bmum40gd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mineLab"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
